@@ -1,0 +1,35 @@
+# Core
+python-dotenv==1.0.1
+pydantic==2.7.4
+
+# Kafka
+confluent-kafka==2.4.0
+
+# Spark
+pyspark==3.5.1
+
+# MySQL
+pymysql==1.1.1
+cryptography==42.0.8
+
+# MongoDB
+pymongo==4.8.0
+
+# Redis
+redis==5.0.7
+
+# Dashboard
+streamlit==1.36.0
+plotly==5.22.0
+pandas==2.2.2
+
+# Utilities
+faker==25.9.1
+numpy==2.0.0
+scikit-learn==1.5.1
+
+# Dev / testing
+pytest==8.2.2
+pytest-asyncio==0.23.7
+black==24.4.2
+ruff==0.5.0
